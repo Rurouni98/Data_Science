@@ -69,14 +69,3 @@
   - `k`값을 증가시키며 이너셔의 감소 곡선을 관찰
   - 그래프의 꺾이는 지점이 적절한 `k`값 (팔꿈치처럼 꺾이는 모양)
 
----
-
-## 참고 사항
-
-- KMeans 외의 다른 군집 알고리즘 예시:
-  - DBSCAN: 밀도 기반 군집화
-  - 계층적 군집 (Hierarchical Clustering)
-  - Gaussian Mixture Model (GMM)
-
-- 비지도 학습은 사전 레이블이 없기 때문에 군집 품질 평가는 실루엣 점수(Silhouette Score) 등 별도의 지표를 사용
-
